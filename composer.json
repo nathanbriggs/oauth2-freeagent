@@ -1,0 +1,29 @@
+{
+    "name": "nathanbriggs/oauth2-freeagent",
+    "description": "Freeagent OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nathan Briggs",
+            "email": "nath@nathanbriggs.com"
+        }
+    ],
+    "keywords": [
+        "oauth",
+        "oauth2",
+        "client",
+        "authorization",
+        "authorisation",
+        "freeagent"
+    ],
+    "require": {
+        "league/oauth2-client": "^2.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Nathanbriggs\\OAuth2\\Client\\": "src/"
+        }
+    }
+}
