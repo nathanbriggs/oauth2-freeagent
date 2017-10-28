@@ -8,6 +8,7 @@
             "email": "nath@nathanbriggs.com"
         }
     ],
+    "minimum-stability": "dev",
     "keywords": [
         "oauth",
         "oauth2",
